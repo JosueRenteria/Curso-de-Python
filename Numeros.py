@@ -3,9 +3,6 @@
 #Autor: Renteria Arriaga Josue
 
 #Operaciones en Python
-from email.errors import InvalidMultipartContentTransferEncodingDefect
-
-
 print(1 + 1)
 print(1.15 + 29) #Devuelve un flotante.
 print(2**3) #Para la exponencial
