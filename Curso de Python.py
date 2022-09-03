@@ -2,6 +2,8 @@
 #Fecha: 03-Septiembre-2022
 #Autor: Renteria Arriaga Josue
 
+#------INTRODUCCION------
+
 #Es un lenguaje de alto nivel, bueno para aplicaciones que interactuan con el usuario
 #Es un lenjuaje de programacion dinamico.
 #Se pueden hacer aplicaciones de linea de comandos, para aplicaciones web django.
