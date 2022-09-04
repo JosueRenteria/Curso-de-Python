@@ -14,3 +14,9 @@
 
 #Para abrir un archivo de Python
 # >>python HolaMundo.py
+
+
+#------PARA LOS MODULOS------
+
+#Para instalar Modulos de Terceros.
+#pip --version
