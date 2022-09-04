@@ -3,9 +3,6 @@
 #Autor: Renteria Arriaga Josue
 
 #Formas para definir un Diccionario.
-from unicodedata import name
-
-
 productos = {
     "nombre": "libro",
     "cantidad": 3,
