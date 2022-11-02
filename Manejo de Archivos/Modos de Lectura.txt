@@ -5,3 +5,14 @@ w -> abre un archivo solo para escritura. Sobreescribe el archivo si este ya exi
 wb -> abre un archivo solo para escritura en formato binario. Sobreescribe el archivo si este ya existe. Si el archivo no existe, crea un nuevo archivo para escritura.
 w+ -> abre un archivo para escritura y lectura. Sobreescribe el archivo si este ya existe. Si el archivo no existe, crea un nuevo archivo para escritura.
 a -> abre un archivo para anexo. El puntero del archivo esta al final del archivo si este existe. Es decir, el archivo está en modo anexo. Si el archivo no existe, crea un nuevo archivo para escritura.
+
+
+Atributos de un objeto file
+Una vez que un archivo está abierto y tienes un objeto file puedes obtener mucha información relacionada con ese archivo.
+
+Veamos una lista de los atributos relacionados con el objeto file:
+
+f.closed : retorna True si el archivo está cerrado, si no, False.
+f.mode : retorna el modo de acceso con el que el archivo ha sido abierto.
+f.name : retorna el nombre del archivo.
+f.name : retorna el nombre del archivo.
